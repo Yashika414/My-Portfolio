@@ -1,0 +1,73 @@
+.header 
+{
+ border-style: dashed;
+ display :flex ;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+ padding: 2cm; 
+ background-color:#85D9BF;
+ font-size: 20px;
+ margin: 1cm;
+}
+h2
+{
+border-color:black ;    
+border-style :groove; 
+background-color: #E11584;  
+text-align: center;
+border-radius: 20px;
+color: white;
+}
+
+img
+{
+ border-style:solid;   
+ border-color:#710193 ;    
+ border-radius: 20px ;
+}
+#Greeting
+{
+ font-size: 2.5cm;  
+ color: white;
+ border-style:double; 
+ border-color:#00E6F0 ;
+ border-width: 0.3cm;
+}
+body
+{
+ background-color: #00B9E7;
+}
+.Greet
+{
+ position: sticky;
+ top : 0;
+}
+.Games
+{
+ border-style : solid  ;
+ border-color : white ;
+display: flex;
+ flex-wrap: wrap;
+ flex-basis: 100%;
+}
+.game
+{
+ border-style: double;   
+ border-radius: 20px 80px;
+ border-color : #FC46AA ;
+ flex-basis: 25%;  
+ margin: 2cm;
+ margin-left: 7cm;
+padding: 1cm; 
+font-size: 1cm;
+font-family:Algerian;
+text-align: center;
+}
+h1
+{
+text-align: center;
+font-size: 1.5cm;
+color:#5A00BA;
+font-family: cursive;
+}
+
